@@ -1,10 +1,11 @@
 # 内容：Bozi不代理的自用维护站点
 # 数量：135条
-# 更新：2025-1-5
+# 更新：2025-9-11
 
 DOMAIN-SUFFIX,fnnas.com
 DOMAIN-SUFFIX,leerunbo.work
-
+DOMAIN-SUFFIX,mercadolibre.com.mx
+DOMAIN-SUFFIX,mercadolibre.com
 # 内容：网易云
 DOMAIN,netease.ugcvideoss.ourdvs.com
 DOMAIN-SUFFIX,163yun.com
